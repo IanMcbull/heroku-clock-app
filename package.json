@@ -1,13 +1,12 @@
-{ 
-    "name":"heroku-app",
-    "version": "0.0.1",
-    "description": "A clock app hosted on heroku plartform",
-    "author": {
+{"name":"heroku-app","version":"0.0.1","description":"A clock app hosted on heroku plartform",
+    "author":
+    {
         "name":"Ian Mugenya",
-        "email": "ianmugenya@gmail.com",
-        "url": "https://ianmugenya.com"
-    },
-    "scripts": {
-        "start": "index.html"
+        "email":"ianmugenya@gmail.com",
+        "url":"https://ianmugenya.com"},
+    "scripts":
+    {
+        "start":"index.html"},
+    "    dependencies":{
+        "express":"^4.17.1"}
     }
-}

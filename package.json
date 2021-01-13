@@ -1,0 +1,10 @@
+{ 
+    "name":"heroku-app",
+    "version": "0.0.1",
+    "description": "A clock app hosted on heroku plartform",
+    "author": {
+        "name":"Ian Mugenya",
+        "email": "ianmugenya@gmail.com",
+        "url": "https://ianmugenya.com"
+    }
+}

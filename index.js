@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const path = require('path')
-const port = process.env.PORT || 7000;
+const port = 2000;
 
 
 //set a static page
